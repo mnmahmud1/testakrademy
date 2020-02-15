@@ -8,8 +8,14 @@
                 $hasil += 1;
             }
         }
-        echo "Output = ".$hasil;
+        if ($hasil == 0){
+            echo "Output : 'Not found!' ";
+        } else {
+            echo "Output : ".$hasil;
+        }
+        
     }
 
     countChar("arka", "a")
+
 ?>
