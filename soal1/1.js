@@ -6,7 +6,20 @@ const myBiodata = () => {
         'hobbies' : ['Reading', 'Programming', 'Traveling', 'game', 'computering'],
         'is_married' : false, 
         'list_school' : [
-            
+            {
+                name : 'Sekolah Tinggi Teknologi Muhammadiyah Cileungsi',
+                year_in : 2018, 
+                year_out : 2022, 
+                major : 'Teknik Informatika'
+            },
+
+            {
+                name : 'SMK Generasi Mandiri Gunung Putri',
+                year_in : 2015, 
+                year_out : 2018, 
+                major : 'Teknik Komputer Jaringan'
+            }
+
         ]
 
 
