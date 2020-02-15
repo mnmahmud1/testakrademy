@@ -1,0 +1,1 @@
+const is_username_valid = (username) =>  /^[a-z]{5,9}$/test(username);
