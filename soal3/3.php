@@ -17,5 +17,6 @@
     }
 
     countChar("arka", "a")
-
+    echo "<br>";
+    countChar("javascript", "x")
 ?>
