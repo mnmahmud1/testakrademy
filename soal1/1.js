@@ -18,9 +18,16 @@ const myBiodata = () => {
                 year_in : 2015, 
                 year_out : 2018, 
                 major : 'Teknik Komputer Jaringan'
-            }
+            },
 
-        ]
+            {
+                name : 'SMP Bina Bangsa Mandiri 1',
+                year_in : 2012, 
+                year_out : 2015, 
+                major : null
+            }
+        ],
+        
 
 
 
