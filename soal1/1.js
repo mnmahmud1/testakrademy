@@ -27,18 +27,39 @@ const myBiodata = () => {
                 major : null
             }
         ],
-        
+        'skills' : [
+            {
+                skill_name : 'C++',
+                level : 'advanced'
+            },
 
+            {
+                skill_name : 'Speak English',
+                level : 'advanced'
+            },
 
+            {
+                skill_name : 'HTML + CSS',
+                level : 'advanced'
+            },
 
+            {
+                skill_name : 'Design CorelDRAW & Adobe XD',
+                level : 'advanced'
+            },
 
+            {
+                skill_name : 'Database MySQL',
+                level : 'Beginner'
+            },
 
-
+            {
+                skill_name : 'Microsoft Office Aplication',
+                level : 'advanced'
+            },
+        ],
+        'interest_in_coding' : true
     }
+};
 
-
-
-
-
-
-}
+console.log(myBiodata());
