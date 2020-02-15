@@ -7,7 +7,8 @@
                 $hasil += 1;
             }
         }
-
+        echo "Output = ".$hasil;
     }
 
+    countChar("arka", "a")
 ?>
